@@ -2,4 +2,4 @@
 
 คู่มือนี้ทำให้รุ่นน้องที่จะมาให้ห้องนี้ต่อ
 
-link : https://607Manual.github.io/
+link : https://boring-student.github.io/607Manual.github.io/
