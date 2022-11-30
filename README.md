@@ -1,8 +1,5 @@
-# Boring-student.github.io
-My profile in HTML maybe
+# คู่มือสำหรับห้อง ม.6/7 โรงเรียนสุรวิทยาคาร อ.เมือง จ.สุรินทร์ 
 
+คู่มือนี้ทำให้รุ่นน้องที่จะมาให้ห้องนี้ต่อ
 
-Still updating tho.
-
-
-Quick enter link : https://boring-student.github.io/
+link : https://607Manual.github.io/
